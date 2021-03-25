@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial=scale-1.0)">
+        <title>Noa Taylor</title>
+        <link rel="stylesheet"
+              href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize/min.css">
+        <link rel="stylesheet"
+              href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
+              integrity="sha@%^-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdXFgVK/Kvc" crossorigin="anonymous" />
+	<!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300&family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="../css/style.css">
+	
+    </head>
+    <body>
+    <!-- Header -->
+        <header>
+          <div class="logo">
+                <img src="img/logo.png" alt="A green fractal logo graphic (https://sciencevsmagic.net/fractal/#0480,0420,3,2,1,1,1)">
+          </div>
+	  <!-- Naviagtion -->
+            <button class="nav-toggle" aria-label="toggle navigation">
+                <span class="veggieburger veggieburger--portfolio"></span>
+            </button>
+            <nav class="nav">
+                <ul class="nav__list">
+                    <li class="nav__item"><a href="../index.html" class="nav__link">Home</a></li>
+                    <li class="nav__item"><a href="../index.html#practice" class="nav__link">My Practice</a></li>
+                    <li class="nav__item"><a href="../index.html#about" class="nav__link">About</a></li>
+                    <li class="nav__item"><a href="../index.html#portfolio" class="nav__link">Work</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <!-- Introduction -->
+        <section class="intro" id="portfolio--template">
+            <h1 class="section__title section__title--intro section__title--portfolio"> <!-- consider updating font size for title and subtitle(bigger) -->
+                Software Series <strong> Emacs </strong>
+            </h1>
+            <p class="section__subtitle section__subtitle--intro section__subtitle--portfolio">Text editing </p>
+            <img class="intro__img" src="../img/08/cover.png" alt="alternative description goes here">
+        </section>
+
+	<div class="portfolio-item-individual">
+	  <p> As part of a recent movement towards open source methodologies in my practice I have begun using Emacs, 'the fully customizable, extensible, self-documenting text editor', a great deal. Whilst I have very little expierence writing Lisp code, I have found Emacs' flexibility as a piece of software quite essential to developing various written documents in a variety of languages. In the image below I am running two Emacs clients in text termials. The clients are clients for an Emacs daemon which is running in the background and I could connect more clients if desired. The displayed buffers show various files and directories relevant to this website. The active buffers synchronise with one another accross clients. In this sense one could regard them as 'instances', or perhaps 'prongs', of the daemon.</p>  
+	  <img src="../img/08/detail8-1.png"  alt="">
+	  <p>Emacs ships with various packages which allow users to send emails, browse the web, manage filesystems, read the news, play games, chat with people online, edit a calendar and so on. Because Emacs is a lisp interpreter, anyone can write a lisp package for a specific purpose, install it on Emacs and use the package, or share the package with others. 'Self-documenting' insofar the user has the possiblity to check, for example, what specfic key-bindings will do in various contexts (local/global; major/minor modes etc.) and access information to faciltate a process. Moreover, as the software is fully customisable one is always at liberty to modify, add to or otherwise change the standard settings.</p>
+	  <p>Emacs is choice software for writing code and, furthermore, it's free!</p>  
+	</div>
+	
+
+        <!-- Footer -->
+        <footer class="footer">
+            <a href="mailto:noataylor97@gmail.com" class="footer__link" >Email Me</a> <!-- get a better email address, one for the website! -->
+            <ul class="social-list">
+	      <li class="social-list__item">
+		<a class="social-list__link" href="https://twitter.com/noataylor_">
+		  <i class="fab fa-twitter-square"></i>
+		</a>
+	      </li>
+	      <li class="social-list__item">
+		<a class="social-list__link" href="https://instagram.com/noa.taylor">
+		  <i class="fab fa-instagram"></i>
+		</a>
+	      </li>
+	      <li class="social-list__item">
+		<a class="social-list__link" href="https://github.com/noataylor">
+		  <i class="fab fa-github"></i>
+		</a>
+	      </li>
+	      <li class="social-list__item">
+		<a class="social-list__link" href="https://www.twitch.tv/noataylor/">
+		  <i class="fab fa-twitch"></i>
+		</a>
+	      </li>
+            </ul>
+        </footer>
+	<script src="../js/index.js"></script>
+    </body>
+</html>
