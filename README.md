@@ -27,7 +27,7 @@ To explore parallels between govenment policy on healthcare and migration throug
 Cultural And Industrial Connections
 -----------------------------------
 
-To research these questions further, I attended and wrote during seminars specifcally relevant to migration, performance and health. This included a workshop with Arts and Health South West; an online seminar on moving through Eurospace; and a lecture by Ellan Fiddian-Quasmiyeh on refugee-hosts.
+To research these questions further, I attended and wrote during seminars specifcally relevant to migration, performance and health. This included a workshop with Arts and Health South West; an online seminar on moving through Eurospace; and a lecture by Elena Fiddian-Qasmiyeh on refugee-hosts.
 
 
 
@@ -48,7 +48,7 @@ Conclusion
 
 In my experience and practice of exploring the questions above I concluded that state powers pervade migration processes and national healthcare systems. There is tension and interplay in politics and legislation between between healthcare and immigration policy. For example, a state can ratify and ramify emergency legislation aimed to protect public health, such as closing national borders, effectively preventing migration. Such techniques of closure can simultaneously devastate cultural industries and individual freedoms.
 
-I intend to continue visiting rigorous, open source methodologies, such as engaging with multiple human and non-human langages in writing, when recording ethnographic fieldnotes in future. Philsophically,I am interested to explore how different conceptions of 'source' or 'origin' outlined by Foucault in 'Nietzshe, Genealogy, History' 'withtain'[1] relevance to open source practices.
+I intend to continue visiting rigorous, open source methodologies, such as engaging with multiple human and non-human langages in writing, when conducting upcoming interviews or recording ethnographic fieldnotes in future. Philsophically, I am interested to explore how different conceptions of 'source' or 'origin' outlined by Foucault in 'Nietzsche, Genealogy, History' 'withtain'[1] relevance to open source practices.
 
 
 
@@ -57,7 +57,7 @@ Bibliography
 
 Badiou, A., 2005. Being and event. Continuum, London ; New York. pp.1--20; 23--51;
 
-Kristeva, J., 1984. Revolution in poetic language. Columbia University Press, New York.
+Kristeva, J., 1984. Revolution in poetic language. Columbia University Press, New York. pp.195--216.
 
 
 
