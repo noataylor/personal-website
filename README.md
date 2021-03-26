@@ -48,7 +48,7 @@ Conclusion
 
 In my experience and practice of exploring the questions above I concluded that state powers pervade migration processes and national healthcare systems. There is tension and interplay in politics and legislation between between healthcare and immigration policy. For example, a state can ratify and ramify emergency legislation aimed to protect public health, such as closing national borders, effectively preventing migration. Such techniques of closure can simultaneously devastate cultural industries and individual freedoms.
 
-I intend to continue visiting rigorous, open source methodologies, such as engaging with multiple human and non-human langages in writing, when recording ethnographic fieldnotes in future. Philsophically,I am interested to explore how different conceptions of 'source' or 'origin' outlined by Foucault in 'Nietzshe, Genealogy, History' 'withtain'[1] relevance to open source practices.
+I intend to continue visiting rigorous, open source methodologies, such as engaging with multiple human and non-human langages in writing, when recording ethnographic fieldnotes in future. Philsophically, I am interested to explore how different conceptions of 'source' or 'origin' outlined by Foucault in 'Nietzsche, Genealogy, History' 'withtain'[1] relevance to open source practices.
 
 
 
