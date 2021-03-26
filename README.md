@@ -39,17 +39,14 @@ Julia Kristeva (1984:195) suggests that 'signifying practice', in contrast to 's
 'For poetic ontology, which---like History---finds itself in an impasse of an excess of presence, one in which being conceals itself, it is necessary to substitute mathematical ontology, in which dis-qualification and unpresentation are realized through writing.'
 
 
-Consequently, going beyond human language through the writing of technical code became a key method for performing socially rooted practice in open source contexts.
+Consequently, going beyond human language through the writing of technical code became a key method for performing socially rooted practice in open source contexts.[1]
 
 
 
-Conclusion
-----------
+Final Steps
+-----------
 
-In my experience and practice of exploring the questions above I concluded that state powers pervade migration processes and national healthcare systems. There is tension and interplay in politics and legislation between between healthcare and immigration policy. For example, a state can ratify and ramify emergency legislation aimed to protect public health, such as closing national borders, effectively preventing migration. Such techniques of closure can simultaneously devastate cultural industries and individual freedoms.
-
-I intend to continue visiting rigorous, open source methodologies, such as engaging with multiple human and non-human langages in writing, when conducting upcoming interviews or recording ethnographic fieldnotes in future. Philsophically, I am interested to explore how different conceptions of 'source' or 'origin' outlined by Foucault in 'Nietzsche, Genealogy, History' 'withtain'[1] relevance to open source practices.
-
+Further to these practice-led methodological refinements, I intend to continue visiting multilingual, open source methodologies  when conducting upcoming interviews or recording ethnographic fieldnotes. I am currently arranging interviews with artists where I plan to discuss the research topics which were the impetus for this project. If I obtain the consent of interviees, I promise to publish the conversations online. So concludes the research project. 
 
 
 Bibliography
@@ -57,12 +54,10 @@ Bibliography
 
 Badiou, A., 2005. Being and event. Continuum, London ; New York. pp.1--20; 23--51;
 
-Kristeva, J., 1984. Revolution in poetic language. Columbia University Press, New York. pp.195--216.
+Kristeva, J., 1984. Revolution in poetic language. Columbia University Press, New York. pp.195--216.OB
 
 
+Note
+----
 
-Glossary
---------
-
-Withtain (portmanteau)
-	 For definitions, see https://www.urbandictionary.com/define.php?term=withtain (accessed 26.03.2021)
+On a the topic of history and philosophy, it would be also be interesting to explore open source practices in relation to different conceptions of 'source' or 'origin' outlined by Foucault in 'Nietzsche, Genealogy, History'.
