@@ -57,7 +57,7 @@ Bibliography
 
 Badiou, A., 2005. Being and event. Continuum, London ; New York. pp.1--20; 23--51;
 
-Kristeva, J., 1984. Revolution in poetic language. Columbia University Press, New York.
+Kristeva, J., 1984. Revolution in poetic language. Columbia University Press, New York. pp.195--216.
 
 
 
