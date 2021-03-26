@@ -1,6 +1,6 @@
 
-README.md Experiments About Digital Media Expression . march26 delivery 
------------------------------------------------------------------------
+README.md Experiments About Digital Media Expression . march26 due 
+------------------------------------------------------------------
 
 
 
@@ -34,7 +34,7 @@ To research these questions further, I attended and wrote during seminars specif
 Theory and Critical Reflection
 ------------------------------
 
-Julia Kristeva (1984:195) suggests that 'signifying practice', in contrast to 'signifying experience', is always rooted in a social dimension. Indeed, the social aspect of these events was a strong motivator in my decision to attend and participation was socially engaging. Nevertheless, I discovered some shortcomings in my research practice. My reliance on proprietary software produced numerous design limitations, such as a lack of engagement with non-human languages during the production of texts. Thus, Alain Badiou offers an indirect critque of Kristevan practice. He writes:
+Julia Kristeva (1984:195) suggests that 'signifying practice', in contrast to 'signifying experience', is always rooted in a social dimension. Indeed, the social aspect of these events was a strong motivator in my decision to attend and participation was socially engaging. Nevertheless, I discovered some shortcomings in my research practice. My reliance on proprietary software produced numermous design limitations, such as a lack of engagement with non-human languages during the production of texts. Thus, Alain Badiou offers an indirect critque of Kristevan practice. He writes:
 
 'For poetic ontology, which---like History---finds itself in an impasse of an excess of presence, one in which being conceals itself, it is necessary to substitute mathematical ontology, in which dis-qualification and unpresentation are realized through writing.'
 
@@ -48,7 +48,7 @@ Conclusion
 
 In my experience and practice of exploring the questions above I concluded that state powers pervade migration processes and national healthcare systems. There is tension and interplay in politics and legislation between between healthcare and immigration policy. For example, a state can ratify and ramify emergency legislation aimed to protect public health, such as closing national borders, effectively preventing migration. Such techniques of closure can simultaneously devastate cultural industries and individual freedoms.
 
-I intend to continue visiting rigorous, open source methodologies, such as engaging with multiple human and non-human langages in writing, when recording ethnographic fieldnotes in future. Philsophically, I am interested to explore how different conceptions of 'source' or 'origin' outlined by Foucault in 'Nietzsche, Genealogy, History' 'withtain'[1] relevance to open source practices.
+I intend to continue visiting rigorous, open source methodologies, such as engaging with multiple human and non-human langages in writing, when conducting upcoming interviews or recording ethnographic fieldnotes in future. Philsophically, I am interested to explore how different conceptions of 'source' or 'origin' outlined by Foucault in 'Nietzsche, Genealogy, History' 'withtain'[1] relevance to open source practices.
 
 
 
