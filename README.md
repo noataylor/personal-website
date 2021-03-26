@@ -34,7 +34,7 @@ To research these questions further, I attended and wrote during seminars specif
 Theory and Critical Reflection
 ------------------------------
 
-Julia Kristeva (1984:195) suggests that 'signifying practice', in contrast to 'signifying experience', is always rooted in a social dimension. Indeed, the social aspect of these events was a strong motivator in my decision to attend and participation was socially engaging. Nevertheless, I discovered some shortcomings in my research practice. My reliance on proprietary software produced numermous design limitations, such as a lack of engagement with non-human languages during the production of texts. Thus, Alain Badiou offers an indirect critque of Kristevan practice. He writes:
+Julia Kristeva (1984:195) suggests that 'signifying practice', in contrast to 'signifying experience', is always rooted in a social dimension. Indeed, the social aspect of these events was a strong motivator in my decision to attend and participation was socially engaging. Nevertheless, I discovered some shortcomings in my research practice. My reliance on proprietary software produced numerous design limitations, such as a lack of engagement with non-human languages during the production of texts. Thus, Alain Badiou offers an indirect critque of Kristevan practice. He writes:
 
 'For poetic ontology, which---like History---finds itself in an impasse of an excess of presence, one in which being conceals itself, it is necessary to substitute mathematical ontology, in which dis-qualification and unpresentation are realized through writing.'
 
