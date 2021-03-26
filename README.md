@@ -1,6 +1,6 @@
---------------------------------------------------------------------------
-| README.md Experiments About Digital Media Expression . march26 due     |
---------------------------------------------------------------------------
+
+README.md Experiments About Digital Media Expression . march26 due 
+------------------------------------------------------------------
 
 
 
