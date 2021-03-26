@@ -27,7 +27,7 @@ To explore parallels between govenment policy on healthcare and migration throug
 Cultural And Industrial Connections
 -----------------------------------
 
-To research these questions further, I attended and wrote during seminars specifcally relevant to migration, performance and health. This included a workshop with Arts and Health South West; an online seminar on moving through Eurospace; and a lecture by Ellan Fiddian-Quasmiyeh on refugee-hosts.
+To research these questions further, I attended and wrote during seminars specifcally relevant to migration, performance and health. This included a workshop with Arts and Health South West; an online seminar on moving through Eurospace; and a lecture by Elena Fiddian-Qasmiyeh on refugee-hosts.
 
 
 
